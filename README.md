@@ -1,2 +1,2 @@
 # SH_COVID-19_MAP
-Track covid-19 map in SH 
+Track map of covid-19 in SH 
